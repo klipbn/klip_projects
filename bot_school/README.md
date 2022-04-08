@@ -14,3 +14,5 @@
 *numpy*
 
 Пример работы бота:
+
+![Screen](/bot_school/images/screen.png)
