@@ -9,7 +9,6 @@
 ## Используемые библиотеки
 *pandas*     
 *matplotlib.pyplot*     
-*sklearn*  
 *numpy*
 
 Пример работы бота:
