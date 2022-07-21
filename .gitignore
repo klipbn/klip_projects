@@ -3,4 +3,5 @@
 work
 work/*
 .DS_Store
-.csv
+*.csv
+*.csv/
